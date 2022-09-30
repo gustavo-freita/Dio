@@ -1,7 +1,4 @@
-# Desafios e soluções da Dio
-## Bootcamp Geração Tech Unimed-BH - Ciência de Dados
-
-### Desafios Iniciais Py - Unimed-BH
+# Desafios e soluções
 
 Nesta pasta você encontrará os desafios para conclusão da etapa "Desafios Iniciais Py" do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados" da Dio.
 
@@ -10,7 +7,7 @@ Abaixo estão os links para os desafios:
 <div align="left">
 	<table border=1>
 		<tr>
-			<th colspan="4">Aceleração Global Dev #18 - GFT</th>
+			<th colspan="4">Desafios e Soluções</th>
 		</tr>
 		<tr>
 			<th>Etapa</th>
