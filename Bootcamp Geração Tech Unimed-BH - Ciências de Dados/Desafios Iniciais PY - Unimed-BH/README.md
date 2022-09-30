@@ -1,8 +1,6 @@
 # Desafios e soluções
 
-Nesta pasta você encontrará os desafios para conclusão da etapa "Desafios Iniciais Py" do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados" da Dio.
-
-Abaixo estão os links para os desafios:
+Nesta pasta você encontrará os desafios para conclusão da etapa Desafios Iniciais Py.
 
 <div align="left">
 	<table border=1>
